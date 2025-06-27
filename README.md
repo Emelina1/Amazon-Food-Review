@@ -1,8 +1,9 @@
 # Amazon Fine Foods Reviews Analysis
 
+## Scope: Exploratory text analysis, Data visualization.
 ## Tools: Python, Power BI, ChatGPT.
-## Libraries: pandas, numpy, matplotlib, seaborn, wordcloud, textblob, sklearn.
-## Dataset: "Amazon Fine Foods" Kaggle dataset.
+## Libraries: pandas, numpy, matplotlib, seaborn, wordcloud, TextBlob, scikit-learn
+## Dataset: "Amazon Fine Foods Reviews" Kaggle dataset.
 
 ## Contents
 
